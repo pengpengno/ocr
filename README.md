@@ -1,4 +1,7 @@
 
+dependencies  文件上传不上来，还是要使用 
+[官网的依赖包](https://www.e-iceblue.cn/spire_ocr_java/how-to-scan-and-recognize-text-from-images-in-java-projects.html)
+
 日志
 ```dtd
 
